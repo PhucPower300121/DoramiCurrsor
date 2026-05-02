@@ -35,8 +35,3 @@ Bộ con trỏ chuột chuyên nghiệp hướng tới trải nghiệm người 
 *   **EN:** This repo is for personal storage. Updates are rare (Low maintenance), but the logic is solid.
 *   **JP:** 個人保存用リポジトリです。更新は不定期ですが、ロジックはしっかりしています。
 *   **VI:** Repo này chủ yếu để lưu trữ cá nhân. Cập nhật tùy duyên (đem con bỏ chợ), nhưng tư duy thiết kế thì cực kỳ tâm huyết.
-
----
-
-### 🎨 Preview / プレビュー
-*(Upload your screenshots or GIFs here!)*
