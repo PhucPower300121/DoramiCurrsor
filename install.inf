@@ -1,0 +1,33 @@
+[Version]
+signature="$Windows NT$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"Cursors\Dorami"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","Dorami",%REG_EXPAND_SZ%,"%10%\Cursors\Dorami\tail.cur,%10%\Cursors\Dorami\aero_helpsen_xl.cur,%10%\Cursors\Dorami\tail.cur,%10%\Cursors\Dorami\fly.ani,%10%\Cursors\Dorami\cross_im.cur,%10%\Cursors\Dorami\beam_im.cur,%10%\Cursors\Dorami\pen.cur,%10%\Cursors\Dorami\dorami1.cur,%10%\Cursors\Dorami\aero_ns_xl.cur,%10%\Cursors\Dorami\aero_ew_xl.cur,%10%\Cursors\Dorami\aero_nwse_xl.cur,%10%\Cursors\Dorami\aero_nesw_xl.cur,%10%\Cursors\Dorami\aero_move_xl.cur,%10%\Cursors\Dorami\up_l.cur,%10%\Cursors\Dorami\dorami.cur,%10%\Cursors\Dorami\aero_pin_xl.cur,%10%\Cursors\Dorami\aero_person_xl.cur"
+
+[Scheme.Cur]
+tail.cur
+aero_helpsen_xl.cur
+fly.ani
+cross_im.cur
+beam_im.cur
+pen.cur
+dorami1.cur
+aero_ns_xl.cur
+aero_ew_xl.cur
+aero_nwse_xl.cur
+aero_nesw_xl.cur
+aero_move_xl.cur
+up_l.cur
+dorami.cur
+aero_pin_xl.cur
+aero_person_xl.cur
+
+[Strings]
+REG_EXPAND_SZ = 0x00020000
